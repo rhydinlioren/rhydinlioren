@@ -19,7 +19,6 @@
 
 Here are some of the projects I've worked on:  
 
-- [LetsWatch](https://github.com/rhydinlioren/letswatch) - Watch videos together in synchronized rooms. `WIP`
 - [Tailscale - No Sudo](https://github.com/rhydinlioren/tailscale-nosudo) – Run Tailscale VPN inside linux machines without sudo privileges.  
 - [Project 69](https://github.com/rhydinlioren/project69) - Sets of backup/startup scripts for Github Codespaces.
 
