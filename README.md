@@ -8,7 +8,7 @@
 
 ![Built with](https://img.shields.io/badge/built%20with-curiosity-d7b89c?style=flat-square)  ![Views](https://img.shields.io/badge/profile%20views-%E2%89%AA%20you%20noticed-c9c19f?style=flat-square)   
 
-## ~Skills~ Knowledge / Learning 
+## Knowledge / Learning 
 *(Having only a plenty of knowledge and calling it a skill would be such a shame)*  
 
 - **Languages:** Python · Java · Kotlin · HTML
@@ -20,7 +20,7 @@
 Here are some of the projects I've worked on:  
 
 - [Tailscale - No Sudo](https://github.com/rhydinlioren/tailscale-nosudo) – Run Tailscale VPN inside linux machines without sudo privileges.  
-- [Project 69](https://github.com/rhydinlioren/project69) - Sets of backup/startup scripts for Github Codespaces.
+- [Project 69](https://github.com/rhydinlioren/project69) - Sets of backup/startup scripts for running a Minecraft server in Github Codespaces.
 
 ## GitHub Stats
 
@@ -30,6 +30,4 @@ Here are some of the projects I've worked on:
 ## Connect with Me
 
 [![Discord Badge](https://img.shields.io/badge/Join%20Discord-CBA6F7?style=for-the-badge&logo=discord&logoColor=1E1E2E&logoSize=auto)](https://discord.gg/P76f2tVdzR)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-89B4FA?style=for-the-badge&logo=telegram&logoColor=1E1E2E)](https://t.me/iamraj69)
-
 
