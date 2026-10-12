@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rhydin Lioren&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 141, Total PRs: 11, Total Issues: 33, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  (last year) : 141, Total PRs: 11, Total Issues: 34, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 195.0728370779222;
+        stroke-dashoffset: 194.84344533442612;
       }
     }
   
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >33</text>
+      >34</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >15</text>
+      >16</text>
     </g>
   </g>
     </svg>
